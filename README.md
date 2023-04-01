@@ -1,3 +1,5 @@
+"This Project has been archived by the owner, who is no longer providing support.  The project remains available to authorized users on a "read only" basis."
+
 # libbacktrace
 A C library that may be linked into a C/C++ program to produce symbolic backtraces
 
